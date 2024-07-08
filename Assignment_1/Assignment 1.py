@@ -1,4 +1,4 @@
-def is_sator_square(tablet):
+def is_sator_square1(tablet):
     L=len(tablet)
     c=0
     for i in range(L):
